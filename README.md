@@ -4,7 +4,7 @@ Welcome to the **VelNet** Landing Page – a clean, fully responsive and modern 
 
 ---
 
-![Landing Page Image](images/Velnet1.png)
+![Landing Page Image](/public/images/Velnet1.png)
 
 ## 🚀 Features
 
