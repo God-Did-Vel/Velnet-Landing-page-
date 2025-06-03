@@ -1,12 +1,38 @@
-# React + Vite
+# 🌐 VelNet Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **VelNet** Landing Page – a clean, fully responsive and modern landing page built with **React.js** and **pure CSS**. It adapts beautifully across screen sizes including desktop, tablet, and mobile.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Landing Page Image](images/Velnet1.png)
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ Built with **React.js**
+- 🎨 Styled with **pure CSS (no frameworks)**
+- 📱 Fully **responsive**: Supports `1902px`, `992px`, `768px`, and `480px`
+- 📷 Background image layered behind text in Hero section
+- 🎯 Call-to-action buttons, marketing copy, and hero image
+- 📦 Easy to customize and scale
+
+---
+
+## 📁 Folder Structure
+
+
+---
+
+## 🛠️ Getting Started
+
+### 📦 Requirements
+
+- Node.js ≥ 14
+- npm or yarn
+
+### 🧰 Installation
+
+```bash
+git clone https://github.com/yourusername/velnet-landing.git
+cd velnet-landing
+npm install
+npm run start
